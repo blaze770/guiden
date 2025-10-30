@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Chilevision.cl">
+    <display-name>Chilevisión</display-name>
+    <icon src="https://www.dropbox.com/scl/fi/7ebrvw72r52rb323vjm4y/Chilevisi-n.png?rlkey=enfkr19flimjsor4o65vtw7ay&st=v4t6ocrd&dl=1"/>
+  </channel>
 
+  <programme start="20251030080000 +0000" stop="20251030090000 +0000" channel="Chilevision.cl">
+    <title>Noticiero AM</title>
+    <desc>Noticias de la mañana en Chilevisión.</desc>
+  </programme>
+</tv>
