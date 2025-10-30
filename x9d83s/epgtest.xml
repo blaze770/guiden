@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="test1">
+    <display-name>Test Channel</display-name>
+  </channel>
+  <programme start="20251030180000 +0000" stop="20251030190000 +0000" channel="test1">
+    <title>Test program</title>
+    <desc>Dette er en test af EPG.</desc>
+  </programme>
+</tv>
